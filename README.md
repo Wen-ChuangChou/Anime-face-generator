@@ -4,7 +4,7 @@
 The task is to train generative networks based on a diffusion probabilistic model for generating anime faces.
 
 ## Dataset
-The dataset of animes faces downloading from [Crypko](https://crypko.ai/en/) 71,311 images. Each image is 96x96 pixels in size. Below are some samples of anime faces from the dataset:   
+The dataset of animes faces downloading from [Crypko](https://crypko.ai/en/) 71,287 images. Each image is 96x96 pixels in size. Below are some samples of anime faces from the dataset:   
 ![image](https://github.com/Wen-ChuangChou/Anime-face-generator/blob/main/doc/fig/sample.jpg?raw=true)
 
 ## Results
