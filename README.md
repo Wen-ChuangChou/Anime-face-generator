@@ -23,6 +23,10 @@ Samples of generated anime faces after **15000** training iterations:
 Samples of generated anime faces after **20000** training iterations:  
 ![20000](https://github.com/Wen-ChuangChou/Anime-face-generator/blob/main/doc/fig/20000iterations.png?raw=true)
 
+
+## Acknowledgment
+I an grateful to the Center for Information Services and High Performance Computing [Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH)] at TU Dresden for providing its facilities for high throughput calculations.
+
 ## Reference
 1. J. Ho et al., “Denoising Diffusion Probabilistic Models,” arXiv:2006.11239, Dec. 2020, https://arxiv.org/abs/2006.11239
 2. Github implementation: https://github.com/lucidrains/denoising-diffusion-pytorch
